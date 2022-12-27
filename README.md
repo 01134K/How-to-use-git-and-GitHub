@@ -2,7 +2,7 @@
 
 ## what you must have
 
-![Alt text]( .\pic\git-github.png )
+![Alt text]( https://github.com/01134K/How-to-use-git-and-GitHub/blob/master/pic/git-github.png?raw=true )
 > git link download : https://git-scm.com/download/win
 
 > GitHub link : https://github.com/
@@ -12,15 +12,15 @@
 
 > Create new repository
 
-![Alt text]( .\pic\new2.png )
+![Alt text]( https://github.com/01134K/How-to-use-git-and-GitHub/blob/master/pic/new2.png?raw=true )
 
 > set project name
 
-![Alt text]( .\pic\reponame.png)
+![Alt text]( https://github.com/01134K/How-to-use-git-and-GitHub/blob/master/pic/reponame.png?raw=true )
 
 > Create repository
 
-![Alt text]( .\pic\crepo.png )
+![Alt text](https://github.com/01134K/How-to-use-git-and-GitHub/blob/master/pic/crepo.png?raw=true)
 
 
 
