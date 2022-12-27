@@ -7,6 +7,14 @@
 
 > GitHub link : https://github.com/
 
+
+## login github on terminal
+
+```
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
+
 ## First setup github project
 
 
@@ -48,5 +56,4 @@ git add .
 git commit -m "<name>"
 
 git push -u origin <name branch>
-
 ```
