@@ -57,3 +57,8 @@ git commit -m "<name>"
 
 git push -u origin <name branch>
 ```
+
+## pull 
+```
+ git pull <remote> <branch>
+```
